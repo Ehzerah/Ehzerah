@@ -1,11 +1,11 @@
 ## Hi, I'm Ezra 👋
 
-Computer Science graduate (Grand View University, 2025) in Des Moines, Iowa, building full-stack, mobile and AI-enabled software.
+Software developer in Des Moines, Iowa, building full-stack, mobile and AI-enabled software.
 
 - 🏥 **Nurtia Technologies**: cofounder and sole developer of a healthcare SaaS for long-term care (React, TypeScript, Supabase, OpenAI, Python ML)
 - 🔨 **Brass Key Construction**: lead iOS and web developer on a contractor marketplace (SwiftUI, Vue 3, Supabase)
 - 🚜 **John Deere**: customer support, where I built **NiCER**, a Chrome extension for the NiCE CXone agent console (34 Chrome Web Store users)
-- 🤖 I work in agentic coding workflows (Claude Code, GitHub Copilot, Codex), backed by automated tests, CI and code review
+- 🤖 I use AI coding tools to complement my own engineering: they speed up development, and automated tests, CI and code review keep the quality high
 
 Most of my work lives in private startup repositories. Access is available to recruiters on request.
 
